@@ -5,6 +5,8 @@
 ## Description
 Update an existig TypeScript command line application to include options for motorbikes and trucks - this is a full-stack bootcamp assignment.
 
+[Walkthrough video link](https://drive.google.com/file/d/1dCTDL8lwN4ZV-pY470O-9F8iGZ-J24Hw/view?usp=sharing)
+
 ## Table of Contents 
 [Description](#Description)
 
